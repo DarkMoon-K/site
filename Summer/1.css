@@ -1,0 +1,12 @@
+.preview-container{
+	height:736px
+	background-color:#d0d0d0
+}
+.wrapper{
+	height:100%
+	max-width:1366px
+	background-image:url ("")
+	background-color:orange;
+	margin: 0 auto
+	padding:40px 78px 40px 100px
+}
